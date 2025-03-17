@@ -5,7 +5,7 @@ This repo consists of two folders
 vector-demo = backend code written in golang
 vector-demo-ui = frontend code written react using material UI 
 
-#vector-demo 
+# vector-demo 
 
 You will need to change your postgres configuration, probably should use env instead of hard coding, YOLO 
 
@@ -15,7 +15,7 @@ Populate markdowns folder with markdown files (I used 90DaysOfDevOps content)
 
 `go run .`
 
-#vector-demo-ui 
+# vector-demo-ui 
 
 A simple chatbot hitting the backend and embeddings 
 
